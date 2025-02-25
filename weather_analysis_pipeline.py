@@ -5,7 +5,6 @@ import pandas as pd
 import json
 import os
 
-# Simple default arguments
 default_args = {
     'owner': 'airflow',
     'retries': 1,
